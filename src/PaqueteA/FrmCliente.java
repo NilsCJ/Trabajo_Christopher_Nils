@@ -191,7 +191,11 @@ public class FrmCliente extends javax.swing.JInternalFrame {
         
         Limpiar();
     }//GEN-LAST:event_btnAddActionPerformed
-
+    public void Mensaje(){
+        int result = 1;
+    }
+    
+    //Prueba
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnAdd;
