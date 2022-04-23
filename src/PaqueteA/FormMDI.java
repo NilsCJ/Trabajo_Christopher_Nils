@@ -139,6 +139,9 @@ public class FormMDI extends javax.swing.JFrame {
 
     }//GEN-LAST:event_mnuArchivoActionPerformed
 
+    public void Mensaje3(){
+        String sentencia = "Hola";
+    }
     private void mnuArchivoMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_mnuArchivoMouseClicked
         // TODO add your handling code here:
         FrmCliente f1 = new FrmCliente();

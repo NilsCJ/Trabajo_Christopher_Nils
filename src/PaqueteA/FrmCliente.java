@@ -194,6 +194,9 @@ public class FrmCliente extends javax.swing.JInternalFrame {
     public void Mensaje(){
         int result = 1;
     }
+    public void Mensaje2(){
+        int result = 1;
+    }
     
     //Prueba
 

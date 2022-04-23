@@ -9,5 +9,5 @@ package PaqueteA;
  * @author Software
  */
 public class Principal {
-    
+    private int id;
 }
