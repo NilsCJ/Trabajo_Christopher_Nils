@@ -87,7 +87,6 @@ public class FrmCliente extends javax.swing.JInternalFrame {
         txtNombre.setText(null);
         txtEdad.setText(null);
     }
-
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
