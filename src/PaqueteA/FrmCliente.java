@@ -197,7 +197,9 @@ public class FrmCliente extends javax.swing.JInternalFrame {
     public void Mensaje2(){
         int result = 1;
     }
-    
+    public void Mensaje3(){
+        int result = 1;
+    }
     //Prueba
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
